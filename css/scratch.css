@@ -1,0 +1,58 @@
+p{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#top{
+  text-decoration: underline;
+}
+
+.emphasizedText{
+  font-style: italic;
+  color: #002E5D
+}
+
+body{
+  background: linear-gradient(135deg, #ff6ec4, #7873f5);
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  border: 5px solid black;
+  margin: 20px;
+  padding: 10px;
+}
+
+.centered-list{
+  padding-left: 0;
+  list-style-position: outside;
+  margin: 0 auto;
+  display: table;
+  text-align: left;
+}
+body {
+  
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.favorite-player {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 20px auto; 
+  max-width: 600px;   
+}
+
+.team-section {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 20px auto;    
+  max-width: 600px;  
+  background-color: orangered;   
+}
+
+.favorite-player {
+  background-color: orangered;
+  padding: 15px;
+  border-radius: 8px;
+}
